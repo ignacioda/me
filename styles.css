@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'bariol';
+    src: url(C:\Users\Ignacio\Desktop\Js\Desafio13\bariol-cufonfonts\bariol_regular-webfont.ttf);
+}
+body{
+    background-color: black;
+    text-align: center 
+}
+header{
+    color: papayawhip;
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration-color: cadetblue;
+    font-family: 'bariol';
+    font-size: 40px;
+}
